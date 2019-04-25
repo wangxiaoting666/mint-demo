@@ -1,0 +1,17 @@
+{
+	"seller": {
+		"name": "我是王小婷",
+		"obj": "前端开发工程师",
+		"supports": [
+			{
+				"type": 0,
+				"description": "日更博客打卡"
+			}, {
+				"type": 1,
+				"description": "90后前端妹子"
+			}
+		]
+	}
+}
+
+
